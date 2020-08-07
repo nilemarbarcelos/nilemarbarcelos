@@ -13,4 +13,4 @@
 - Mobile application development using **iOS (Swift & SwiftUI), Android (Java or Kotlin)**
 - **Docker**, **Kubernetes**, **Ansible**
 
-![Nilemar's github stats](https://github-readme-stats.vercel.app/api?username=nilemarbarcelos&theme=dracula&show_icons=true)
+![Nilemar's github stats](https://github-readme-stats.vercel.app/api?username=nilemarbarcelos&theme=dracula&show_icons=true&count_private=true)
