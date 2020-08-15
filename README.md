@@ -1,5 +1,4 @@
 <h2> Hi, I'm Nilemar! <img src="https://i.ibb.co/mCfFsHS/hello.png" width="40px"></h2>
-<hr>
 
 <p>I am a Senior Software Engineer, based in London 🇬🇧</p>
 
